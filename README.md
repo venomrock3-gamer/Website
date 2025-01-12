@@ -1,3 +1,3 @@
 # website
 VenomRock3’s website
-To main page: [venomrock3-gamer.github.io/website/Page](main_page)
+To main page: [main_page](venomrock3-gamer.github.io/website/Page)
